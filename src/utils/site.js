@@ -1,5 +1,5 @@
-export const url = 'https://viraltiktokcolmek.pages.dev';
-export const nama = 'Viral Tiktok Colmek';
+export const url = 'https://indomek.pages.dev';
+export const nama = 'Indomek';
 export const desk = 'Video Bokep Indo Terbaru Bocil Ngentot Jilbab Smp Mama Viral Sma Cindo Tante';
 export const terbit = '2025-01-25T00:01:21Z';
 
