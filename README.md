@@ -1,1 +1,1 @@
-# [viraltiktokcolmek](https://viraltiktokcolmek.pages.dev)
+# [indomek](https://indomek.pages.dev)
